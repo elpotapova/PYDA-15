@@ -1,5 +1,9 @@
+Задание 1
 1. https://pastenow.ru/8ee2efcd70e70c8a960031caa72b5132
 
-2. https://pastenow.ru/122699a6e0544b4eb9a404d396b7b93e
+Задание 2
+1. https://pastenow.ru/122699a6e0544b4eb9a404d396b7b93e
+2. https://pastenow.ru/903747b73f24f26861085ad48cd49a00
 
-3. https://pastenow.ru/903747b73f24f26861085ad48cd49a00
+Задание 3
+1. https://github.com/elpotapova/PYDA-15/blob/main/hw1/hw1scr.txt
